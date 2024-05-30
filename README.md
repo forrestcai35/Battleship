@@ -25,8 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-ChefMate is a chatbot-style assistant with integrated recipe storage capabilities that will adapt to your culinary prefernces as you use it!
-
+Recreation of classic battleship with turned-based and AI game modes. 
 
 
 ### Built With
