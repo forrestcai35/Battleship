@@ -1,0 +1,11 @@
+(executable
+ (public_name battleship)
+ (name main)
+ (modules main)
+ (libraries battleship unix))
+
+; (executable
+;  (public_name ai)
+;  (name ai)
+;  (modules ai)
+;  (libraries battleship))

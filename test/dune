@@ -1,0 +1,5 @@
+(test
+ (name test_battleship)
+ (libraries ounit2 qcheck battleship)
+ (instrumentation
+  (backend bisect_ppx)))

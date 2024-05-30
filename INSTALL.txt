@@ -1,0 +1,5 @@
+How to install and Run: Open up the zip file, cd to battleship/, and run code . 
+from the terminal. Then run [dune build] and [dune exec bin/main.exe] to run the 
+main program. After that you can follow the steps on terminal and you will be 
+able to see a grid with an x corresponding to the coordinates you put in. Note
+that the grid starts at 0,0 for the top left corner

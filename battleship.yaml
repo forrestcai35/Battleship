@@ -1,0 +1,31 @@
+---
+# Members of your group.
+group:
+  - name: Joyce Yang
+    netid: jby33
+  - name: Forrest Cai
+    netid: fhc25
+  - name: Marc Kuo
+    netid: mrk239
+# Your PM.
+pm:
+  name: Alan Liu
+  netid: tl558
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "Battleship"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jby33/battleship.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our vision is to build a battleship style terminal game that will have 
+  features such as a player against an AI, turn based and customizable grid 
+  sizes. Players will be able to choose locations for their ships, and attempt 
+  to sink the other players’ or the AI’s. If one of the players has all of 
+  their ships sunk then that player will lose. In addition to controlling the 
+  number of ships and grid size, players may also be able to choose how many 
+  ships and their sizes. As well as possibly how many times they get to shoot 
+  per turn. 
