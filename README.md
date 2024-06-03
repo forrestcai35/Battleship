@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 
-<h3 align="center">Battleship</h3>
+<h3 align="center">OBattleship</h3>
 
   <p align="center">
     <br />
